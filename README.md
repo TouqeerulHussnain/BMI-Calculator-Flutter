@@ -1,4 +1,4 @@
-# lab7
+# BMI Calculator
 
 A new Flutter project.
 
